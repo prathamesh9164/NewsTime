@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/david-giambusso",
+            "title": "NYC health department says Savage Cat Food linked to fatal feline bird flu cases - Gothamist",
+            "description": "The company said it notified retalers and consumers of a potential problem last month and recalled the affected product.",
+            "url": "https://gothamist.com/news/nyc-health-department-says-savage-cat-food-linked-to-fatal-feline-bird-flu-cases",
+            "urlToImage": "https://api-prod.gothamist.com/images/350183/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-03-16T15:55:00Z",
+            "content": "The New York City health department is warning cat parents to stop using Savage Cat Food a brand the city says is likely tied to at least three cases of feline bird flu in the last two months.\r\nHealt… [+2772 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nicholas Riccardi",
+            "title": "Trump administration deports hundreds of migrants, despite judge’s order stopping removal - The Associated Press",
+            "description": "The Trump administration has transferred hundreds of immigrants to El Salvador despite a federal judge’s order temporarily barring the deportations under an 18th century wartime declaration targeting Venezuelan gang members. Flights were in the air at the tim…",
+            "url": "https://apnews.com/article/trump-venezuela-el-salvador-immigration-dd4f61999f85c4dd8bcaba7d4fc7c9af",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0f6fc93/2147483647/strip/true/crop/8500x4781+0+443/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F8f%2F5d436603b31ee0ce6ab49ad0b41e%2F7af01f98e7384dd18840793314cc08ee",
+            "publishedAt": "2025-03-16T15:47:00Z",
+            "content": "The Trump administration has transferred hundreds of immigrants to El Salvador despite a federal judges order temporarily barring the deportations under an 18th century wartime declaration targeting … [+5672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Treasury Secretary Bessent says White House is heading off a 'guaranteed' financial crisis - CNBC",
+            "description": "Bessent believes market pullbacks are benign, and Trump's pro-business policies will boost the economy in the long run.",
+            "url": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115496-1741875965554-Bennet3.jpg?v=1741876019&w=1920&h=1080",
+            "publishedAt": "2025-03-16T15:35:22Z",
+            "content": "Treasury Secretary Scott Bessent said Sunday the Trump administration is focused on preventing a financial crisis that could be the result of massive government spending over the past few years.\r\n\"Wh… [+1787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Box Office: Jack Quaid’s ‘Novocaine’ Leads Painfully Slow Weekend With $8.7 Million Debut - Variety",
+            "description": "Jack Quaid's \"Novocaine\" lead the way as the domestic box office nearly ground to a halt.",
+            "url": "https://variety.com/2025/film/box-office/jack-quaid-novocaine-box-office-slow-weekend-1236338809/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/03/NOVO_03240RC.jpg?crop=0px%2C0px%2C5128px%2C2885px&resize=1000%2C563",
+            "publishedAt": "2025-03-16T15:35:00Z",
+            "content": "Jack Quaid’s action-comedy “Novocaine” topped a painfully slow weekend at the box office with $8.7 million. For theater owners, however, there’s not too much to celebrate: It’s one of the worst debut… [+4938 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Dasha Burns, Megan Messerly, Brendan Bordelon, Meredith Lee Hill",
+            "title": "White House seriously considering deal from Oracle to run TikTok - POLITICO",
+            "description": "Any deal could face security concerns from China hawks in Congress.",
+            "url": "https://www.politico.com/news/2025/03/16/white-house-oracle-tiktok-00232302",
+            "urlToImage": "https://static.politico.com/3b/20/112c693f43858b7b5b5b897c36b6/u-s-congress-69537.jpg",
+            "publishedAt": "2025-03-16T15:30:18Z",
+            "content": "It comes amid ongoing warnings from congressional Republicans and other China hawks that any new ownership deal if it keeps TikToks underlying technology in Chinese hands could be only a surface-leve… [+5525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Peru: Fisherman rescued after 95 days adrift, surviving on turtles - BBC.com",
+            "description": "Maximo Napa Castro set off for what should have been a two-week trip on 7 December - but was only found on Wednesday.",
+            "url": "https://www.bbc.com/news/articles/cj92438d3xmo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c60d/live/734788b0-0281-11f0-b50e-9d086302645f.jpg",
+            "publishedAt": "2025-03-16T15:10:58Z",
+            "content": "A Peruvian fisherman who survived 95 days lost at sea in the Pacific Ocean by eating turtles, birds and cockroaches has been rescued and reunited with his family.\r\nMaximo Napa Castro, 61, set off for… [+2376 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Attacker sets a woman on fire on a train in eastern Germany and flees - CBS News",
+            "description": "Police say an assailant poured a liquid over a woman on a train in eastern Germany and set her on fire.",
+            "url": "https://www.cbsnews.com/news/germany-train-attack-woman-set-on-fire/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/16/802f32da-7a57-4f0b-81aa-c5c04e32a84d/thumbnail/1200x630/a0459761b390318f2c434d11e950c83f/germany-attack.jpg?v=e7f44f50e1cf6b32bb81cbfeaec70acf",
+            "publishedAt": "2025-03-16T14:41:42Z",
+            "content": "An assailant poured a liquid over a woman on a tram in eastern Germany on Sunday and set her on fire, police said. The woman was taken to a hospital with life-threatening injuries, while the attacker… [+670 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Iranian general raises prospect of response amid US strikes on Houthis - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/International/iranian-general-raises-prospect-response-amid-us-strikes/story?id\\\\u003d119847045",
+            "urlToImage": null,
+            "publishedAt": "2025-03-16T14:37:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "The iPhone 17 Air makes other models look chunky in new leaked dummy shots - The Verge",
+            "description": "Leaked photos show iPhone 17, 17 Air, 17 Pro, and 17 Pro Max dummies, which case manufacturers use to plan their products.",
+            "url": "https://www.theverge.com/news/630917/iphone-17-air-pro-max-dummies-leak",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/iPhone-17s-rear.png?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-03-16T14:20:17Z",
+            "content": "Also: Bloombergs Mark Gurman writes that the 17 Air could be the precursor to a long-rumored port-free iPhone.\r\nAlso: Bloombergs Mark Gurman writes that the 17 Air could be the precursor to a long-ru… [+2373 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Julie Bort",
+            "title": "Photo calorie app Cal AI, downloaded over a million times, was built by two teenagers - TechCrunch",
+            "description": "Cal AI has generated over 5 million downloads in 8 months, it says. Founders Zach Yadegari and Henry Langmack are just 18.",
+            "url": "https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Zach-Yadegari.jpeg?resize=1200,1030",
+            "publishedAt": "2025-03-16T14:00:00Z",
+            "content": "In a world filled with vibe coding, Zach Yadegari, teen founder of Cal AI, stands in ironic, old-fashioned contrast. \r\nIronic because Yadegari and his co-founder, Henry Langmack, are both just 18 yea… [+3790 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Andrew Freedman",
+            "title": "Tornado outbreak and severe weather kills at least 33 people - Axios",
+            "description": "The storms are not over yet, with an area from Florida to Pennsylvania is at risk on Sunday.",
+            "url": "https://www.axios.com/2025/03/16/tornado-outbreak-severe-weather-death-toll",
+            "urlToImage": "https://images.axios.com/-rii0n4zvs6UvD4V7EdcF_D7MR4=/0x552:3500x2520/1366x768/2025/03/16/1742132631403.jpg",
+            "publishedAt": "2025-03-16T13:58:26Z",
+            "content": "At least 33 people are dead after tornadoes, high winds and wildfires hit more than a half-dozen states since Thursday. \r\nThreat level: Although the outlook is less dire, more severe thunderstorms wi… [+3442 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Robert Costa",
+            "title": "Government expert on Elon Musk and DOGE's \"slash-and-burn exercise\" - CBS News",
+            "description": "Trump campaign funder and government disrupter Elon Musk has used unprecedented power to quickly eliminate thousands of federal jobs and shutter entire programs and agencies, using tactics that have raised questions about transparency.",
+            "url": "https://www.cbsnews.com/news/government-expert-on-elon-musk-and-doges-slash-and-burn-exercise/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/15/20f12dee-7838-41c2-85bf-aa57246cd6fb/thumbnail/1200x630/1daba300455314269d18e504f5a9fc82/elon-musk-with-chainsaw-at-cpac-1280-getty-2200061382.jpg?v=e7f44f50e1cf6b32bb81cbfeaec70acf",
+            "publishedAt": "2025-03-16T13:16:26Z",
+            "content": "It was a remarkable moment last Tuesday: President Trump standing beside a shiny electric car at the White House making a pitch for the car's maker, Elon Musk: \"This man has devoted his energy and hi… [+8019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jess Thomson",
+            "title": "First aider mice seen trying to bring their 'freshly deceased' friends back to life - Livescience.com",
+            "description": "Mice will lick the faces and pull at the tongues of other mice if they're found unconscious, with more vigorous grooming resulting in faster recovery.",
+            "url": "https://www.livescience.com/animals/land-mammals/mice-administer-first-aid-to-friends-even-trying-to-bring-the-dead-back-to-life",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Na6hmmtNt4EAYBDCV2VeJY-1200-80.jpg",
+            "publishedAt": "2025-03-16T13:10:00Z",
+            "content": "Mice appear to administer first-aid if they find a fellow mouse unconscious, scientists have discovered.\r\nThey attempt to revive companions by licking at their faces, or even by pulling at their mout… [+4070 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Perrone",
+            "title": "As AI nurses reshape hospital care, human nurses are pushing back - The Associated Press",
+            "description": "The next time you get a call about an upcoming medical appointment you may not be talking to a human. Hospitals are increasingly using AI assistants to handle scheduling, preparation and patient questions about surgeries and other medical procedures. It's the…",
+            "url": "https://apnews.com/article/artificial-intelligence-ai-nurses-hospitals-health-care-3e41c0a2768a3b4c5e002270cc2abe23",
+            "urlToImage": "https://dims.apnews.com/dims4/default/033adef/2147483647/strip/true/crop/3200x1800+0+167/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F3a%2Fc033e828972fd61e4d005aef0b9c%2F98f8087553fd4d49bb9a956e67ec2aa9",
+            "publishedAt": "2025-03-16T13:02:00Z",
+            "content": "The next time youre due for a medical exam you may get a call from someone like Ana: a friendly voice that can help you prepare for your appointment and answer any pressing questions you might have.\r… [+8298 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, Kaitlan Collins, Jeff Zeleny",
+            "title": "Flags, figurines and gold everywhere: Trump transforms the Oval Office into a gilded gallery - CNN",
+            "description": "As President Donald Trump works to dramatically reshape the federal government, he is also in the middle of transforming another historic aspect of the presidency: the Oval Office.",
+            "url": "https://www.cnn.com/2025/03/16/politics/oval-office-gold-decor-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/001-gettyimages-2204115112.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-03-16T12:52:00Z",
+            "content": "As President Donald Trump works to dramatically reshape the federal government, he is also in the middle of transforming another historic aspect of the presidency: the Oval Office.\r\nNearly eight week… [+8575 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christian Edwards, Maria Kostenko, Benjamin Brown",
+            "title": "Zelensky says ‘no encirclement’ of Ukrainian troops in Russia’s Kursk region, accusing Putin of lying - CNN",
+            "description": "President Volodymyr Zelensky said that Ukrainian troops have not been encircled by Russian forces in Kursk region, accusing Russian leader Vladimir Putin of “lying” about the situation on the ground.",
+            "url": "https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24229665373682.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-03-16T12:40:00Z",
+            "content": "President Volodymyr Zelensky said that Ukrainian troops have not been encircled by Russian forces in Kursk region, accusing Russian leader Vladimir Putin of lying about the situation on the ground.\r\n… [+5019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Trump silences Voice of America as staff put on leave - BBC.com",
+            "description": "More than 1,300 staff placed on administrative leave as White House accuses VOA of being anti-Trump, \"radical\" and \"leftist\".",
+            "url": "https://www.bbc.com/news/articles/cvge4l109r3o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ab1/live/77ae5820-0227-11f0-a266-535342915d40.png",
+            "publishedAt": "2025-03-16T12:38:49Z",
+            "content": "Thomas Mackintosh &amp; Merlyn Thomas\r\nDonald Trump has signed an order to strip back the federally funded news organisation Voice of America, accusing it of being \"anti-Trump\" and \"radical\".\r\nA Whit… [+3581 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Olga Khazan",
+            "title": "The good news about anxiety - The Washington Post",
+            "description": "The right amount of anxiety can help heighten focus and problem-solving. There is “the sweet spot in the middle, where anxiety is really adaptive,” one researcher says.",
+            "url": "https://www.washingtonpost.com/wellness/2025/03/16/anxiety-stress-benefits-focus-motivator/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OYYUNTS6LRC4ZNAL4EOGU5EDZQ.jpg&w=1440",
+            "publishedAt": "2025-03-16T12:31:12Z",
+            "content": "The first time my improv teacher called me up to act out a scene, my throat clenched and my vision briefly went dim. The thought of performing in front of other people, especially in a way that was m… [+7421 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "At least 59 people killed in nightclub fire in North Macedonia - Al Jazeera English",
+            "description": "More than 100 people injured in the deadly fire at at the nightclub in Kocani – about 100km east of the capital, Skopje.",
+            "url": "https://www.aljazeera.com/news/2025/3/16/at-least-51-people-killed-in-nightclub-fire-in-north-macedonia",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/2025-03-16T093957Z_1918599590_RC29EDAYA7F6_RTRMADP_3_NORTH-MACEDONIA-FIRE-1742119031.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-03-16T12:07:59Z",
+            "content": "At least 59 people have been killed and more than 100 injured in a devastating fire at a packed nightclub in Kocani in North Macedonia, according to interior minister Panche Toshkovski.\r\nThe blaze er… [+2924 chars]"
+        }
+    ]
+}
